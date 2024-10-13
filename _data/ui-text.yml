@@ -350,8 +350,7 @@ zh-HK: &DEFAULT_ZH_HK
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
- English (default)
-# -----------------
+#Deutsch
 de: &DEFAULT_DE
   page                       : "Seite"
   pagination_previous        : "Zurück"

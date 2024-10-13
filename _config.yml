@@ -10,7 +10,7 @@
 locale                   : "de"
 title                    : "Hom VW"
 title_separator          : "-"
-name                     : &name "Jakob"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://homvw.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

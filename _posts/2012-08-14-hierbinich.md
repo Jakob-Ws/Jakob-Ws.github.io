@@ -3,9 +3,6 @@ title: 'Hier bin ich'
 date: 2024-10-10
 permalink: /posts/2012/08/14/hierbinich
 tags:
-  - cool posts
-  - category1
-  - category2
 ---
 Das ist mein erster Blogeintrag, und ich möchte hier ein bisschen darüber schreiben, was ich mir von diesem Blog und allgemein von dieser Website erhoffe.
 
@@ -18,4 +15,3 @@ Nach einer längeren Überlegung bin ich nun zu dem Entschluss gekommen, meine e
 Mit diesem Blog möchte ich meine Gedanken zu Themen teilen, die mich gerade interessieren. Zudem habe ich vor, hier größere Projekte zu veröffentlichen. Dazu gehören vor allem Skripte zu mathematischen und physikalischen Themen. Diese Skripte dienen in erster Linie dazu, mein Wissen zu teilen. Ich bin der Meinung, dass Wissen kostenlos jedem zur Verfügung stehen sollte, der es haben möchte, und dass finanzielle Mittel kein Hindernis sein sollten.
 
 Ja, das war's dann erstmal. Ich kann noch nicht einschätzen, wie oft ich hier etwas schreiben werde, aber ich versuche, so regelmäßig wie möglich Beiträge zu verfassen.
-------

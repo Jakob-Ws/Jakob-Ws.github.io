@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -23,20 +23,20 @@ author:
   # Biographic information
   avatar           : "meinAvatar.png"
   name             : "Jakob"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Erde"
-  employer         : 
+  employer         :
   uri              : # URL
-  email            : 
+  email            :
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    :
   impactstory      : # URL
-  orcid            : 
+  orcid            :
   semantic         : # URL
-  pubmed           : 
+  pubmed           :
   researchgate     : # URL
 
   # Repositories and software development
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "Jakob-Ws"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
@@ -78,11 +78,12 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Journal Articles'
   preprint:
     titel: 'Preprints'
+  conferences:
+    title: 'Conference Papers'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

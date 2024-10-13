@@ -353,7 +353,6 @@ zh-TW:
  English (default)
 # -----------------
 de: &DEFAULT_DE
-
   page                       : "Seite"
   pagination_previous        : "Zurück"
   pagination_next            : "Weiter"

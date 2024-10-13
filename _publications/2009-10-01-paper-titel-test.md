@@ -1,7 +1,7 @@
 ---
 title: "Test"
 collection: publications
-category: books
+category: preprints
 permalink: /publication/2009-10-01-test
 excerpt: 'Test'
 date: 2009-10-01

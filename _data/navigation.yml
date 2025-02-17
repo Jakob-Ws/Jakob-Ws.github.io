@@ -3,7 +3,5 @@ main:
     url: /artikel/
   - title: "Projekte"
     url: /projekte/
-  - title: "Tags"
-    url: /tags/
   - title: "Über mich"
     url: /about/

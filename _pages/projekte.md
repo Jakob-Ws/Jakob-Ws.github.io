@@ -1,6 +1,6 @@
 ---
 title: "Projekte"
 layout: single
-permalink: /categories/
+permalink: /projekte/
 author_profile: true
 ---

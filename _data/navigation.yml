@@ -1,8 +1,8 @@
 main:
   - title: "Artikel"
     url: /artikel/
-  - title: "Categories"
-    url: /categories/
+  - title: "Projekte"
+    url: /projekte/
   - title: "Tags"
     url: /tags/
   - title: "Über mich"

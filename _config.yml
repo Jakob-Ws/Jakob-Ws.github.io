@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Hom VW
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Ich studiere Mathematik und Physik für das Lehramt 
+                      und interessiere mich für digitale Hilfsmittel, 
+                      die die Lehre verbessern können.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU

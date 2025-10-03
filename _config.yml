@@ -108,3 +108,10 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      mathjax: true
+
